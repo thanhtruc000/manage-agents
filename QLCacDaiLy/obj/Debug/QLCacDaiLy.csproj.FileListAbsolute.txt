@@ -1,0 +1,166 @@
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.exe.config
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.exe
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.pdb
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.Form1.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.Properties.Resources.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.exe
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.pdb
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanHoSo.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoCongNoDL.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoDoanhThuDL.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuDL.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuThuTien.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanThongTin.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuHH.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuLSHHBanRa.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanUuDai.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoThuChi.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuPhieuNhapKho.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuPhieuXuatKho.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuNhapKho.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuXuatKho.resources
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csprojAssemblyReference.cache
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.exe.config
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.exe
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.pdb
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csprojAssemblyReference.cache
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.Form1.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.Properties.Resources.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoCongNoDL.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoDoanhThuDL.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoThuChi.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanHoSo.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanThongTin.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanUuDai.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuDL.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuHH.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuLSHHBanRa.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuPhieuNhapKho.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuPhieuXuatKho.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuUuDai.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuNhapKho.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuThuTien.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuXuatKho.resources
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.GenerateResource.cache
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.CoreCompileInputs.cache
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.exe
+D:\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.pdb
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.exe.config
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.exe
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.pdb
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.Form1.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoCongNoDL.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoDoanhThuDL.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoThuChi.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanHoSo.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanThongTin.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanUuDai.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuDL.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuHH.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuLSHHBanRa.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuPhieuNhapKho.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuPhieuXuatKho.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuUuDai.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuNhapKho.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuThuTien.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuXuatKho.resources
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.exe
+C:\Users\Admin\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.pdb
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.Form1.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoCongNoDL.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoDoanhThuDL.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoThuChi.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanHoSo.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanThongTin.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanUuDai.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuDL.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuHH.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuLSHHBanRa.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuPhieuNhapKho.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuPhieuXuatKho.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuNhapKho.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuThuTien.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuXuatKho.resources
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.exe
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.pdb
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.exe.config
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.exe
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.pdb
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.CopyComplete
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\CNPM\QLCDL\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.CopyComplete
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.exe.config
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.exe
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.pdb
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.Form1.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.Properties.Resources.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoCongNoDL.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoDoanhThuDL.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoThuChi.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanHoSo.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanThongTin.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanUuDai.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuDL.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuHH.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuLSHHBanRa.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuPhieuNhapKho.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuPhieuXuatKho.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuNhapKho.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuThuTien.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuXuatKho.resources
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.CopyComplete
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.exe
+C:\Users\Administrator\Downloads\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.pdb
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.exe.config
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.exe
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\bin\Debug\QLCacDaiLy.pdb
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.dll
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.SqlServer.dll
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.xml
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\bin\Debug\EntityFramework.SqlServer.xml
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.AssemblyReference.cache
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.Form1.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.Properties.Resources.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoCongNoDL.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoDoanhThuDL.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCBaoCaoThuChi.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanHoSo.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanThongTin.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTiepNhanUuDai.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuDL.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuHH.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuLSHHBanRa.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuPhieuNhapKho.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCTraCuuPhieuXuatKho.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuNhapKho.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuThuTien.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.UCXuatPhieuXuatKho.resources
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.GenerateResource.cache
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.CoreCompileInputs.cache
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.csproj.CopyComplete
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.exe
+D:\HUFLIT NĂM 3\Công nghệ Phần Mềm\QLCacDaiLy\QLCacDaiLy\obj\Debug\QLCacDaiLy.pdb
